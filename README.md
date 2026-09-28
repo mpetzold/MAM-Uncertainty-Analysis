@@ -71,7 +71,12 @@ python mam_processing.py
 
 ## References
 
-* Geopsy
-* Vantassel, J. P. — `swprocess`
+* Aki, K. (1957). *Space and Time Spectra of Stationary Stochastic Waves, with Special Reference to Microtremors*. Bulletin of the Earthquake Research Institute, University of Tokyo, 35(3), 415–456. https://doi.org/10.15083/0000033938
 
-**Author:** Matías Petzold — Civil Geological Engineer
+* Capon, J. (1969). *High-resolution frequency-wavenumber spectrum analysis*. Proceedings of the IEEE, 57(8), 1408–1418. https://doi.org/10.1109/PROC.1969.7278
+
+* Lacoss, R. T., Kelly, E. J., & Toksöz, M. N. (1969). *Estimation of seismic noise structure using arrays*. Geophysics, 34(1), 21–38. https://doi.org/10.1190/1.1439995
+
+* Vantassel, J. P., & Cox, B. R. (2022). *SWprocess: a workflow for developing robust estimates of surface wave dispersion uncertainty*. Journal of Seismology, 26, 731–756. https://doi.org/10.1007/s10950-021-10035-y
+
+* Wathelet, M., Chatelain, J.-L., Cornou, C., Di Giulio, G., Guillier, B., Ohrnberger, M., & Savvaidis, A. (2020). *Geopsy: A user-friendly open-source tool set for ambient vibration processing*. Seismological Research Letters, 91(3), 1878–1889.
