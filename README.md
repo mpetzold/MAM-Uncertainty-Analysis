@@ -4,6 +4,8 @@ Python workflow for processing passive seismic surface-wave dispersion peaks usi
 
 The workflow uses **Geopsy** for FK and HRFK processing and [`swprocess`](https://github.com/jpvantassel/swprocess) for Python-based extraction, JSON export, and visualization.
 
+[FK vs HRFK dispersion](https://github.com/mpetzold/MAM-Uncertainty-Analysis/blob/master/figures/tome_fk_vs_hfk_dispersion.png) ([image](https://github.com/mpetzold/MAM-Uncertainty-Analysis/raw/master/figures/tome_fk_vs_hfk_dispersion.png))
+
 ## Workflow
 
 ```text
